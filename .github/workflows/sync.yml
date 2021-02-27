@@ -23,5 +23,5 @@ jobs:
         with:
           source_repo: "https://github.com/hzys/HiCnUnicom.git"
           source_branch: "master"
-          destination_branch: "master"
+          destination_branch: "new"
           github_token: ${{ secrets.PAT }}
